@@ -1,12 +1,13 @@
-👨🏻‍💻 About Me
-🧬 FullStack Developer.
-🛠️ Mainly code with JavaScript and related tecnologies.
-💻 Currently looking for a job in web development.
-🎓 Studying computer engineering.
+<h1>👨🏻‍💻 About Me <h1/>
 
-⚡ Technologies
+>🧬 FullStack Developer. <br/><br/>
+>🛠️ Mainly code with JavaScript and related tecnologies. <br/><br/>
+>💻 Currently looking for a job in web development. <br/><br/>
+>🎓 Studying computer engineering. <br/><br/>
 
-Front-end development using React and AngularJS.
-Backend development using NodeJS.
-Mobile application development using ReactNative.
-Managing databases using PostgreSQL and his amazing ecosystem.
+<h1>⚡ Technologies<h1/>
+
+>Front-end development using React and AngularJS. <br/><br/>
+>Backend development using NodeJS. <br/><br/>
+>Mobile application development using ReactNative. <br/><br/>
+>Managing databases using PostgreSQL and his amazing ecosystem.
