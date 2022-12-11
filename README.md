@@ -10,4 +10,4 @@
 - Front-end development using React and AngularJS. <br/>
 - Backend development using NodeJS. <br/>
 - Mobile application development using ReactNative. <br/>
-- Managing databases using PostgreSQL and his amazing ecosystem.
+- Managing databases using PostgreSQL and Sequelize.
