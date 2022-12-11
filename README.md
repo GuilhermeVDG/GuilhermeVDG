@@ -7,7 +7,7 @@
 
 ## ⚡ Technologies
 
-- Front-end development using React and AngularJS. <br/>
+- Front-end development using React, NextJs and AngularJS. <br/>
 - Backend development using NodeJS. <br/>
 - Mobile application development using ReactNative. <br/>
 - Managing databases using PostgreSQL and Sequelize.
