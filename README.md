@@ -2,7 +2,8 @@ Hi, my name is Guilherme!
 =========================================================================================================================================
 
 <div align="center">
-  
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vanderley-008a54203/)
 <a href="https://www.github.com/GuilhermeVDG" rel="noreferrer"><img src="https://img.shields.io/github/followers/GuilhermeVDG?logo=githubx&style=for-the-badge&color=9046FF&labelColor=9046FF&label=GITHUB+FOLOWERS"></a>
   
 </div>
@@ -35,23 +36,13 @@ Hi, my name is Guilherme!
 <div align="center">
 <div style="display: inline_block">
 
-# Algumas das ferramentas/tecnologias que conheço:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,sequelize,java,spring,python,django,aws,gcp,firebase,figma,github)]((https://github.com/GuilhermeVDG))
+# My Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,python,c,cpp,react,angular,rn,nextjs,nodejs,express,nestjs,sequelize,prisma,postgresql,firebase,mongodb,docker,git,github)]((https://github.com/GuilhermeVDG))
 
 
 <div align="center">
 <div style="display: inline_block">
 <br>
-
-# Badges:
-  <div  width=2> 
-    
-  <img align="center"  width=350 src="https://github.com/GuilhermeVDG/GuilhermeVDG/assets/101233631/2388d4f7-40fa-430c-a07a-9ef8f9a4bf1f"/>
-    
-  <img align="center" width=350 src="https://github.com/GuilhermeVDG/GuilhermeVDG/assets/101233631/c2c10644-8662-4731-a765-ddb3df3a9a65"/>
-
-    
-  </div>
 
 <br>
 <br>
