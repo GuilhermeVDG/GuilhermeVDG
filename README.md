@@ -19,10 +19,13 @@ Hi, my name is Guilherme!
 <img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
 <br>
 <br>
+
 <div align="center">
-<a href="https://github.com/GuilhermeVDG">   
-<img height="180em" width=495 src="https://github-readme-stats-three-rho-54.vercel.app/api?username=GuilhermeVDG&show_icons=true&theme=cobalt&cache_seconds=1800"/>
-<img height="180em" width=495 src="https://github-readme-stats-three-rho-54.vercel.app/api/top-langs/?username=GuilhermeVDG&layout=compact&theme=cobalt&cache_seconds=1800"/>
+  <a href="https://github.com/GuilhermeVDG">
+    <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api?username=GuilhermeVDG&show_icons=true&theme=cobalt&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api/top-langs/?username=GuilhermeVDG&layout=compact&theme=cobalt&cache_seconds=1800"/>
+  </a>
+</div>
   
 ![snake svg](https://github.com/GuilhermeVDG/GuilhermeVDG/blob/output/github-contribution-grid-snake.svg)
   
