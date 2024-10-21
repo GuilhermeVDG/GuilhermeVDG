@@ -21,7 +21,7 @@ Hi, my name is Guilherme!
 <br>
 <div align="center">
 <a href="https://github.com/GuilhermeVDG">   
-<img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api?username=GuilhermeVDG&show_icons=true&theme=cobalt&cache_seconds=1800"/>
+<img align="center" height="180em" width=495 src="https://github-readme-stats-three-rho-54.vercel.app/api?username=GuilhermeVDG&show_icons=true&theme=cobalt&cache_seconds=1800"/>
   
 ![snake svg](https://github.com/GuilhermeVDG/GuilhermeVDG/blob/output/github-contribution-grid-snake.svg)
   
@@ -46,4 +46,4 @@ Hi, my name is Guilherme!
 <br>
 <img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/> 
 
-<img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVDG&layout=compact&theme=cobalt&cache_seconds=1800"/>
+<img align="center" height="180em" width=495 src="https://github-readme-stats-three-rho-54.vercel.app/api/top-langs/?username=GuilhermeVDG&layout=compact&theme=cobalt&cache_seconds=1800"/>
