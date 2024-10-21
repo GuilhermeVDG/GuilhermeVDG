@@ -37,7 +37,7 @@ Hi, my name is Guilherme!
 <div style="display: inline_block">
 
 # My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,python,c,cpp,react,angular,nextjs,nodejs,express,nestjs,sequelize,prisma,typeorm,postgresql,firebase,mongodb,docker,git,github)]((https://github.com/GuilhermeVDG))
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,python,c,cpp,react,angular,nextjs,nodejs,express,nestjs,sequelize,prisma,postgresql,firebase,mongodb,docker,git,github)]((https://github.com/GuilhermeVDG))
 
 
 <div align="center">
