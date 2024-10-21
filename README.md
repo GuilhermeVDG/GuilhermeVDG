@@ -21,7 +21,7 @@ Hi, my name is Guilherme!
 <br>
 <div align="center">
 <a href="https://github.com/GuilhermeVDG">   
-<img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api?username=GuilhermeVDG&show_icons=true&theme=cobalt"/>
+<img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api?username=GuilhermeVDG&show_icons=true&theme=cobalt&cache_seconds=1800"/>
   
 ![snake svg](https://github.com/GuilhermeVDG/GuilhermeVDG/blob/output/github-contribution-grid-snake.svg)
   
@@ -38,8 +38,6 @@ Hi, my name is Guilherme!
 # My Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,python,c,cpp,react,angular,nextjs,nodejs,express,nestjs,sequelize,prisma,postgresql,firebase,mongodb,docker,git,github)]((https://github.com/GuilhermeVDG))
 
-<img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVDG&layout=compact&theme=cobalt"/>
-
 <div align="center">
 <div style="display: inline_block">
 <br>
@@ -47,3 +45,5 @@ Hi, my name is Guilherme!
 <br>
 <br>
 <img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/> 
+
+<img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVDG&layout=compact&theme=cobalt&cache_seconds=1800"/>
