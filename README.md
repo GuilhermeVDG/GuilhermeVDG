@@ -4,17 +4,18 @@ Hi, my name is Guilherme!
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vanderley-008a54203/)
-<a href="https://www.github.com/GuilhermeVDG" rel="noreferrer"><img src="https://img.shields.io/github/followers/GuilhermeVDG?logo=githubx&style=for-the-badge&color=9046FF&labelColor=9046FF&label=GITHUB+FOLOWERS"></a>
+<a href="https://www.github.com/GuilhermeVDG" rel="noreferrer"><img src="https://img.shields.io/github/followers/GuilhermeVDG?logo=github&style=for-the-badge&color=9046FF&labelColor=9046FF&label=GITHUB+FOLLOWERS"></a>
   
 </div>
 
 <br>
 <img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
 
-🌱- I'm a FullStack Developer.  
-<br>
-🚩- Technology enthusiast. 
-<br>
+- I'm a Computer Engineering student at **UPE** (8th semester)  
+- Currently working at **[ISI-TICS](https://github.com/isi-tics/)**  
+- Experienced in building scalable applications using **NestJS** and **React**, contributing to national-level SaaS projects that impact organizations across Brazil.  
+- 3 years of experience as a FullStack Developer  
+
 <br>
 <img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
 <br>
