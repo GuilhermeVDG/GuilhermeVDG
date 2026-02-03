@@ -11,10 +11,10 @@ Hi, my name is Guilherme!
 <br>
 <img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
 
-- I'm a Computer Engineering student at **UPE** (8th semester)  
+- I'm a Computer Engineering student at **UPE** (9th semester)  
 - Currently working at **[ISI-TICS](https://github.com/isi-tics/)**  
 - Experienced in building scalable applications using **NestJS** and **React**, contributing to national-level SaaS projects that impact organizations across Brazil.  
-- 3 years of experience as a FullStack Developer  
+- 4 years of experience as a FullStack Developer  
 
 <br>
 <img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
@@ -27,8 +27,6 @@ Hi, my name is Guilherme!
     <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api/top-langs/?username=GuilhermeVDG&layout=compact&theme=cobalt&cache_seconds=1800"/>
   </a>
 </div>
-  
-![snake svg](https://github.com/GuilhermeVDG/GuilhermeVDG/blob/output/github-contribution-grid-snake.svg)
   
 <div style="display: inline_block"> 
 </br>
