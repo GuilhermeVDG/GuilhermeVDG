@@ -13,7 +13,7 @@ Hi, my name is Guilherme!
 
 - I'm a Computer Engineering student at **UPE** (9th semester)  
 - Currently working at **[ISI-TICS](https://github.com/isi-tics/)**  
-- Experienced in building scalable applications using **NestJS** and **React**, contributing to national-level SaaS projects that impact organizations across Brazil.  
+- Experienced in building scalable applications using **NestJS** and **React**, contributing to SaaS projects that impact organizations across Brazil.  
 - 4 years of experience as a FullStack Developer  
 
 <br>
