@@ -1,20 +1,19 @@
-Hi, my name is Guilherme!
 =========================================================================================================================================
 
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vanderley-008a54203/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-galindo-008a54203/)
 <a href="https://www.github.com/GuilhermeVDG" rel="noreferrer"><img src="https://img.shields.io/github/followers/GuilhermeVDG?logo=github&style=for-the-badge&color=9046FF&labelColor=9046FF&label=GITHUB+FOLLOWERS"></a>
-  
+
 </div>
 
 <br>
 <img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
 
-- I'm a Computer Engineering student at **UPE** (9th semester)  
-- Currently working at **[ISI-TICS](https://github.com/isi-tics/)**  
-- Experienced in building scalable applications using **NestJS** and **React**, contributing to SaaS projects that impact organizations across Brazil.  
-- 4 years of experience as a FullStack Developer  
+- Full Stack Software Engineer with **5+ years of experience** building web and mobile applications across fintech, industrial, SaaS, and large-scale platforms
+- Currently working as a **Full Stack Software Engineer**, building end-to-end features with **React**, **Next.js**, **NestJS** and **Node.js** on scalable AWS architectures
+- Experienced designing **RESTful APIs**, **serverless architectures**, and **multi-tenant / RBAC** systems
+- Comfortable owning products end-to-end and collaborating in fully remote, cross-border agile teams
 
 <br>
 <img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
@@ -27,19 +26,20 @@ Hi, my name is Guilherme!
     <img height="180em" src="https://github-readme-stats-three-rho-54.vercel.app/api/top-langs/?username=GuilhermeVDG&layout=compact&theme=cobalt&cache_seconds=1800"/>
   </a>
 </div>
-  
-<div style="display: inline_block"> 
+
+<div style="display: inline_block">
 </br>
 <div align="center">
-  
+
 <div style="display: inline_block">
 </div>
-<br>  
+<br>
 <div align="center">
 <div style="display: inline_block">
 
 # My Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,python,c,cpp,react,angular,nextjs,nodejs,express,nestjs,sequelize,prisma,postgresql,firebase,mongodb,docker,git,github,aws)]((https://github.com/GuilhermeVDG))
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,nodejs,express,nestjs,graphql,prisma,python,django,postgresql,mongodb,mysql,redis,aws,azure,docker,kafka,rabbitmq,git,github,githubactions)](https://github.com/GuilhermeVDG)
 
 <div align="center">
 <div style="display: inline_block">
@@ -47,4 +47,4 @@ Hi, my name is Guilherme!
 
 <br>
 <br>
-<img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/> 
+<img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
